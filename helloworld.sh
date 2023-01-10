@@ -1,7 +1,7 @@
 #! /bin/bash
 
 func(){
-echo "hello world"
+echo "hello world! From Anzhe Cheng"
 }
 
 func
