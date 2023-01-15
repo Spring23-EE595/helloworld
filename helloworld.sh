@@ -1,7 +1,7 @@
 #! /bin/bash
 
 func(){
-echo "hello world 2023"
+echo "hello world Spring 2023"
 }
 
 func
