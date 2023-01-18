@@ -2,6 +2,6 @@
 
 func(){
 echo "hello world"
+echo "hello"
 }
-
 func
